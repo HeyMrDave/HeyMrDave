@@ -1,7 +1,7 @@
 <h1 align="center">👋 ¡Hola! Soy <strong>David Cabezas</strong></h1>
 
 <p align="center">
-  🚀 <strong>Ingeniero de Software</strong> | 💻 <strong>Desarrollador Backend & Fullstack</strong>  
+  🚀 <strong>Ingeniero de Software</strong> | 💻 <strong>Desarrollador Backend</strong>  
   <br>
   Apasionado por la tecnología, la automatización y la creación de soluciones inteligentes.
 </p>
